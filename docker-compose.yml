@@ -15,6 +15,8 @@ services:
     image: segelzwerg/heatmap-provider:stable
     # build:
     #  ./Heatmap-Provider
+    environment:
+      - MYSQL_PASSWORD=GX#QK^Vr5yFMrSXt#Cbxz&Be8G!e#2W2TzFgc^dj4k
     ports:
       - "5000:5000"
     networks:

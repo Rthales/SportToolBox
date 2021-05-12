@@ -44,3 +44,4 @@ Make the changes on the main files outside the language specific folders unless 
 
 Please provide a small description as to what you have done and reference any  existing issues you have resolved.
 Please don't forget to comment PRs with `@all-contributors please add <username> for <contributions>` in order to update the all contributors list.
+L'API key pour se connecter est : QVWtmiWUrHoEJfggAE2euczo7X2kzhRmNVnDE2voDLobBnVB9nmmaakeB

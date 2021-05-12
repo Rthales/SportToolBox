@@ -31,6 +31,7 @@ class PaceServiceTest {
 
         MinutesPerKilometer expectedPace = new MinutesPerKilometer((float) 2.7272727);
         assertThat(pace, equalTo(expectedPace));
+        assertThat(pace.password, equalTo("PasswOrd01"));
     }
 
     @Test
